@@ -1,0 +1,25 @@
+Shape Shift - Core Shapes
+
+1. Square
+   - Default shape
+   - Balanced movement
+   - Higher jump height
+   - Can push blocks
+
+2. Circle
+   - Fast rolling movement
+   - Can bounce off walls
+   - Lower jump height
+
+3. Triangle
+   - Can stick to and slide down walls
+   - Glides when falling
+   - Sharp point can break certain obstacles
+
+4. Rectangle
+   - Can stretch vertically to reach high places
+   - Squishes horizontally to fit through narrow gaps
+
+5. Star
+   - Can float briefly
+   - Activates special star switches
